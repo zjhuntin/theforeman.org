@@ -7,3 +7,6 @@ end
 gem 'github-pages', '>= 57'
 gem 'rake'
 gem 'icalendar'
+gem 'iruby'
+gem 'rbczmq'
+gem 'nyaplot'
