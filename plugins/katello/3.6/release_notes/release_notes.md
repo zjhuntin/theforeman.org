@@ -4,15 +4,11 @@ title: Release Notes
 version: 3.6
 ---
 
-# Katello 3.6-RC1 (Imperial IPA) Release Notes
+# Katello 3.6 (Imperial IPA) Release Notes
 
 For the full release notes, see the [Changelog](https://github.com/Katello/katello/blob/KATELLO-3.6/CHANGELOG.md).
 
 ## Features
-
-### RC-1 Notes
-
-We have not compiled a complete list of major changes yet, but we will update this with a more complete list with the GA version of 3.6. Thanks for your paitence, if you're looking for more information please feel free to contact us or look at the changelog above.
 
 ## Deprecation Warnings
 
